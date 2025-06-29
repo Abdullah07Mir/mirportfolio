@@ -88,6 +88,35 @@ Designed to maximize efficiency, safety, and driver satisfaction."
             />
           </Col>
           
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Sleep Disorder"
+              description="Sleep Disorder is a smart health app designed to monitor and analyze your sleep patterns.
+It tracks sleep duration, quality, and irregularities using advanced sensors and data analysis.
+Detects deviations from healthy sleep habits over short or long periods.
+Provides insights into possible sleep issues like insomnia, apnea, or disturbed cycles.
+Notifies users when patterns indicate potential disorders needing attention.
+Offers personalized tips and lifestyle adjustments to improve sleep quality.
+Recommends treatments based on the type and severity of sleep deviations.
+Connects users with relevant certified sleep specialists or doctors.
+Helps book appointments directly through the app with nearby clinics.
+Includes a sleep diary to manually log habits and symptoms.
+Displays detailed sleep reports with trends and graphs.
+Provides reminders for bedtime routines and medication (if needed).
+Supports wearable integration for accurate sleep tracking.
+Secure, private, and easy to use for all age groups.
+Ideal for those with mild to chronic sleep concerns.
+Improves awareness and management of sleep-related health issues.
+User-friendly design focused on health, comfort, and recovery.
+Sleep Disorder empowers better sleep and healthier living."
+     
+              demoLink="https://drive.google.com/file/d/1wtBYMyrfAg53qT8Zz84mLmWRrx-cHCfj/view?usp=drive_link"
+            />
+          </Col>
+          
            <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
@@ -156,6 +185,43 @@ Supports a wide range of eSIM-compatible smartphones.
 User-friendly interface makes plan selection and activation simple.
 Ideal for digital nomads, tourists, and business travelers.
 Seyyah Mobile keeps you connected, wherever you go."
+     
+              demoLink="https://play.google.com/store/apps/details?id=com.seyyahmobile"
+            />
+          </Col>
+          
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Go Grub"
+              description="Go Grub is a powerful all-in-one app built to simplify your daily lifestyle.
+It offers three core services in one seamless platform:
+
+1. Ride Booking – Get fast, safe, and affordable rides anytime.
+
+2. Food Ordering – Order meals from your favorite restaurants with real-time tracking.
+
+3. Itineraries – Shop for groceries and essential household items quickly and easily.
+
+The app is designed for convenience, letting you handle travel, meals, and shopping from one place.
+Track your orders and rides live with built-in GPS and smart notifications.
+Schedule future rides, food deliveries, or grocery orders ahead of time.
+Save your preferences, addresses, and past orders for faster repeat use.
+Integrated wallet and secure payment options keep transactions simple and safe.
+Get notified on discounts, order status, and new offers instantly.
+Enjoy a clean, user-friendly interface built for speed and ease.
+
+Alongside the main app, Go Grub Driver is available for service providers.
+Drivers manage and fulfill ride bookings, food deliveries, and grocery orders.
+A single platform for drivers to handle multiple task types efficiently.
+Real-time request alerts, GPS directions, and income tracking for drivers.
+Supports flexible work and helps local service providers grow.
+
+Go Grub brings everything together—mobility, meals, and market—in one place.
+Whether you're booking a ride, craving a meal, or stocking up on groceries,
+Go Grub keeps life moving smoothly, securely, and on time."
      
               demoLink="https://play.google.com/store/apps/details?id=com.seyyahmobile"
             />
@@ -254,7 +320,7 @@ Perfect for quiz lovers who enjoy both learning and earning.
 User-friendly design for smooth navigation and gameplay.
 Build your skills, rise in rank, and get rewarded.
 mSwali makes quizzes exciting, competitive, and profitable."
-               demoLink="https://drive.google.com/file/d/1PacZiUlAIqtEuuiDOcYhVy48Mzw7fwK1/view?usp=drive_link"
+               demoLink="https://drive.google.com/file/d/1wxGGT0k4m1POWNMDidaoX_6JeXRFNScw/view?usp=drive_link"
             />
           </Col>  
 
