@@ -109,7 +109,7 @@ Supports multiple delivery and pickup options.
 All-in-one shopping, just a tap away.
 With List-n-Buy, if it exists—you can buy it."
      
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://drive.google.com/file/d/18aEdVJsM0TVt3kVePnfNSbB59qrLIRvl/view?usp=drive_link"
             />
           </Col>
           
@@ -229,7 +229,7 @@ Clean, user-friendly interface for a smooth experience.
 Helps build discipline and consistency in your fitness journey.
 All-in-one tool for workouts, nutrition, and progress monitoring.
 Y-Fitness keeps your health goals within reach."
-               demoLink="https://plant49-ai.herokuapp.com/"
+               demoLink="https://drive.google.com/file/d/1TNpQyIButdIHDwfc6ejPAXE0hASrT1uo/view?usp=drive_link"
             />
           </Col>  
           
@@ -277,7 +277,7 @@ User-friendly design makes managing money simple and stress-free.
 Track, plan, and grow your savings with confidence.
 With Savey, every expense counts — and is accounted for."
 
-              demoLink="https://plant49-ai.herokuapp.com/"
+              demoLink="https://drive.google.com/file/d/1zrSJiZ_W5nr5OFQwQbGDZNQF6Mbf4Ci8/view?usp=drive_link"
             />
           </Col>
 
@@ -317,7 +317,7 @@ Fast, reliable, and user-friendly experience.
 Save time by managing all car-related tasks in one app.
 Pentrem simplifies the way you move and maintain your vehicle."
      
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://drive.google.com/file/d/1vudBkw8AQbFkUxjWSXgB8ccT7Z1tL3qh/view?usp=drive_link"
             />
           </Col>
 
@@ -345,7 +345,7 @@ Notifications keep everyone updated in real-time.
 KalpX blends learning, teaching, and management in one place.
 A complete digital hub for the world of dance."
      
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://drive.google.com/file/d/1OLCZCY-jTE0XjjXmJROk2lwYTur1KaJQ/view?usp=drive_link"
             />
           </Col>
 
@@ -367,7 +367,7 @@ Ideal for political events, opinion polls, and community decisions.
 User-friendly interface ensures smooth participation.
 Admins can easily create, manage, and monitor surveys.
 Political brings powerful digital tools to democratic engagement."
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://drive.google.com/file/d/17SFah_XmqX2oeDo_XZTfvsxWis1c8Wyt/view?usp=drive_link"
             />
           </Col>
 
@@ -385,7 +385,7 @@ Product-related plans are organized and assigned through the platform.
 Centralized control helps managers streamline workflow and productivity.
 Ideal for remote and in-office teams alike.
 Rota Go keeps organizational operations running efficiently."
-              demoLink="https://editor.soumya-jit.tech/"              
+              demoLink="https://drive.google.com/file/d/1vQ0K5IuJMIlhiF2xB1OmJBJ4YCkqNuMN/view?usp=drive_link"              
             />
           </Col>
           
@@ -425,7 +425,7 @@ Perfect for reminders, to-do lists, or daily thoughts.
 Clean interface makes navigation fast and clutter-free.
 Swipe Pro keeps your priorities just a swipe away."
           
-              demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" 
+              demoLink="https://drive.google.com/file/d/1Wuvb9c85N0itOp53C4nSzfWvADE2_wca/view?usp=drive_link" 
               //<--------Please include a demo link here
             />
           </Col>
@@ -463,7 +463,7 @@ It helps users understand their health conditions more clearly.
 ThroxScan also supports booking appointments with doctors directly.
 All health data is securely stored for easy access and tracking.
 A smart tool for faster, more informed healthcare decisions."
-               demoLink="https://plant49-ai.herokuapp.com/"
+               demoLink="https://drive.google.com/file/d/1dho6MoC97LqMOAY-YWjGIAv291C-25ot/view?usp=drive_link"
             />
           </Col>
           
@@ -567,7 +567,7 @@ Smooth, fast, and organized seafood trading experience.
 Kasani Fish simplifies the entire fish trade process.
 
 "
-               demoLink="https://plant49-ai.herokuapp.com/"
+               demoLink="https://drive.google.com/file/d/1ZqAHPfBgbgj3xAwsOjup-q0TgmMXtiaj/view?usp=drive_link"
             />
           </Col>
           
@@ -583,7 +583,7 @@ AI-powered matching ensures relevant job recommendations.
 Supports profiles with resumes, skills, and experience highlights.
 Ideal for part-time, full-time, and freelance opportunities.
 Kamaoo makes finding and hiring talent faster and smarter."
-               demoLink="https://plant49-ai.herokuapp.com/"
+               demoLink="https://drive.google.com/file/d/1QSuV1rOieITwAhm7XrgvrcvG28xNfdJU/view?usp=drive_link"
             />
           </Col>
         </Row>
