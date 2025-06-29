@@ -65,7 +65,7 @@ Secure and simple login flow ensures a smooth user experience.
 Built with cross-platform support and a lightweight, responsive UI.
 Focused on fast, safe, and reliable urban transportation and delivery."
      
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://drive.google.com/file/d/12rnmrauYjDztjqVdKQmaBe4KFJn6S6l3/view?usp=drive_link"
             />
           </Col>
           
@@ -84,7 +84,7 @@ Built with a driver-first UI for quick, reliable operation.
 Optimized for Android and iOS using a scalable backend.
 Designed to maximize efficiency, safety, and driver satisfaction."
      
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://drive.google.com/file/d/1yAfMKqir43HlEbv0Z9NXkSTWtXWChAWX/view?usp=drive_link"
             />
           </Col>
           
@@ -157,7 +157,7 @@ User-friendly interface makes plan selection and activation simple.
 Ideal for digital nomads, tourists, and business travelers.
 Seyyah Mobile keeps you connected, wherever you go."
      
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://play.google.com/store/apps/details?id=com.seyyahmobile"
             />
           </Col>
               <Col md={4} className="project-card">
@@ -208,7 +208,7 @@ Safe and secure platform for career development.
 Skilled Talk is where professionals grow, connect, and succeed.
 
 "
-               demoLink="https://plant49-ai.herokuapp.com/"
+               demoLink="https://drive.google.com/file/d/1yTler9Rz8lpZYRsw9xiqFNWPM9JdXPsa/view?usp=drive_link"
             />
           </Col>  
 
@@ -254,7 +254,7 @@ Perfect for quiz lovers who enjoy both learning and earning.
 User-friendly design for smooth navigation and gameplay.
 Build your skills, rise in rank, and get rewarded.
 mSwali makes quizzes exciting, competitive, and profitable."
-               demoLink="https://plant49-ai.herokuapp.com/"
+               demoLink="https://drive.google.com/file/d/1PacZiUlAIqtEuuiDOcYhVy48Mzw7fwK1/view?usp=drive_link"
             />
           </Col>  
 
