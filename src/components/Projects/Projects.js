@@ -223,7 +223,7 @@ Go Grub brings everything together—mobility, meals, and market—in one place.
 Whether you're booking a ride, craving a meal, or stocking up on groceries,
 Go Grub keeps life moving smoothly, securely, and on time."
      
-              demoLink="https://play.google.com/store/apps/details?id=com.seyyahmobile"
+              demoLink="https://drive.google.com/file/d/1k7VSm0-RpV-bfpgdjP_zO_WR91jGJlLc/view?usp=drive_link"
             />
           </Col>
               <Col md={4} className="project-card">
