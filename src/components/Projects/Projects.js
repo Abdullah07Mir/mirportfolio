@@ -337,7 +337,7 @@ Users can share photos and videos across diverse entertainment categories simila
 Integrated store functionality allows users to purchase digital assets like coins and diamonds, which can be used for in-app rewards or gifting. The app’s AI enhances user experience by powering smart recommendations, content discovery, and interactive tools.
 
 Social Vibes is not just a social app—it's a digital playground where entertainment meets community and commerce."
-               demoLink="https://drive.google.com/file/d/1wxGGT0k4m1POWNMDidaoX_6JeXRFNScw/view?usp=drive_link"
+               demoLink="https://drive.google.com/file/d/1YtxmzuZtpOyDNXNBJ5jpnyP-UqZLFoJ0/view?usp=drive_link"
             />
           </Col>  
 
