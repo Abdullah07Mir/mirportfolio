@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mirportfolio/static/css/main.817b057d.css",
-    "main.js": "/mirportfolio/static/js/main.c34a37a1.js",
+    "main.js": "/mirportfolio/static/js/main.5f775a9e.js",
     "static/js/415.4d6acbeb.chunk.js": "/mirportfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/mirportfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/mirportfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -18,12 +18,12 @@
     "index.html": "/mirportfolio/index.html",
     "static/media/pre.svg": "/mirportfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "main.817b057d.css.map": "/mirportfolio/static/css/main.817b057d.css.map",
-    "main.c34a37a1.js.map": "/mirportfolio/static/js/main.c34a37a1.js.map",
+    "main.5f775a9e.js.map": "/mirportfolio/static/js/main.5f775a9e.js.map",
     "415.4d6acbeb.chunk.js.map": "/mirportfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/mirportfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.817b057d.css",
-    "static/js/main.c34a37a1.js"
+    "static/js/main.5f775a9e.js"
   ]
 }
