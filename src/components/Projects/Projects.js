@@ -324,6 +324,23 @@ mSwali makes quizzes exciting, competitive, and profitable."
             />
           </Col>  
 
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={emotion}
+              isBlog={false}
+              title="mSwali"
+              description="Social Vibes is an innovative, AI-integrated social media platform that combines entertainment, connectivity, and e-commerce into a single immersive experience. Designed with a vibrant and gamified user interface, it offers a wide range of features including real-time chat, voice messaging, and live streaming.
+
+Users can share photos and videos across diverse entertainment categories similar to TikTok, while also engaging in dynamic social interactions. The platform introduces a unique profile system with rewards, achievements, and membership tiers, enhancing user engagement and loyalty.
+
+Integrated store functionality allows users to purchase digital assets like coins and diamonds, which can be used for in-app rewards or gifting. The app’s AI enhances user experience by powering smart recommendations, content discovery, and interactive tools.
+
+Social Vibes is not just a social app—it's a digital playground where entertainment meets community and commerce."
+               demoLink="https://drive.google.com/file/d/1wxGGT0k4m1POWNMDidaoX_6JeXRFNScw/view?usp=drive_link"
+            />
+          </Col>  
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
