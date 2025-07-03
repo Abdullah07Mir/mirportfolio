@@ -471,10 +471,7 @@ Rota Go keeps organizational operations running efficiently."
               demoLink="https://drive.google.com/file/d/1vQ0K5IuJMIlhiF2xB1OmJBJ4YCkqNuMN/view?usp=drive_link"              
             />
           </Col>
-          {/* ,, */}
-          {/* ,, */}
-          {/* ,, */}
-          
+     
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
