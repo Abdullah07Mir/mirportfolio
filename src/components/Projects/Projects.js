@@ -676,3 +676,5 @@ Kamaoo makes finding and hiring talent faster and smarter."
 }
 
 export default Projects;
+
+// ..
